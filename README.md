@@ -2,6 +2,8 @@
 
 This repo is used for a project as part of the practical seminar in the master programm of media informatics at the university of regensburg.
 
-Further information will follow soon as this repo is used for documenting the project.
+Please be aware that most information is added in german.
 
-Please be aware that most information will be added in german.
+The wiki was used for ongoing project documentation.
+
+Get in touch with the project and read about what we did in the [project log](https://github.com/kindOfCurly/PS-Basisdokument/wiki/Projekt-Log).
