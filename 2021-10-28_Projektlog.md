@@ -379,7 +379,7 @@ Zur Abgabe ist ein Push in dieses Repo geplant, sodass alle relevanten Dateien a
 Neben dem entstehenden Imagefilm ist für das Vorhaben eines digitalen Basisdokuments im Zivilprozess in nächster Zeit vermutlich insgesamt viel Öffentlichkeitsarbeit zu leisten, um Akzeptanz und Konzeptverständnis bei allen betroffenen Personengruppen (vor allem auch auf Seiten der Anwält:innen) zu erreichen.
 Zur Konzeptvermittlung stellt unser Prototyp sicher einen guten Ausgangspunkt dar.
 
-Darüber hinaus kann unsere Methodik inklusive der entstandenen "Teilergebnisse" (z.B. User Stories bei der [Anforderungsanalyse](#ANforderungserhebung)) auch zukünftig, bei weiterer Forschung am digitalen Basisdokument, als Hilfestellung dienen. Erarbeitete Dokumente könnten beispielsweise in einem breiteren Kontext (größerer Korpus / mehr befragte Personen) erweitert werden.
+Darüber hinaus kann unsere Methodik inklusive der entstandenen "Teilergebnisse" (z.B. User Stories bei der [Anforderungsanalyse](#Anforderungserhebung)) auch zukünftig, bei weiterer Forschung am digitalen Basisdokument, als Hilfestellung dienen. Erarbeitete Dokumente könnten beispielsweise in einem breiteren Kontext (größerer Korpus / mehr befragte Personen) erweitert werden.
 
 Wenn das Projekt weiterhin verfolgt wird, schiene uns eine Erweiterung des Prototypen jedoch notwendig:
 
